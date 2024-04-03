@@ -26,16 +26,12 @@ $ npm run start:prod
 ```
 
 ## Test
+![image](https://github.com/amogh-chavan/stock-scan-parser-api/assets/55050758/176fab22-1faa-4ac9-998d-e99703617d87)
 
 ```bash
 # unit tests
 $ npm run test
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
 
 ## License

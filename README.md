@@ -1,4 +1,5 @@
 ## Swagger
+![image](https://github.com/amogh-chavan/stock-scan-parser-api/assets/55050758/54391bd9-1d08-44db-a96f-63b263c9d72a)
 
 http://localhost:5000/docs
 
@@ -13,6 +14,7 @@ $ npm install
 ```
 
 ## Running the app
+![image](https://github.com/amogh-chavan/stock-scan-parser-api/assets/55050758/ff924359-3779-45ff-88a7-8ef6e0f03387)
 
 ```bash
 # development

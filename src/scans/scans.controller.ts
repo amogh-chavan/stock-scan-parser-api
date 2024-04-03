@@ -1,9 +1,10 @@
 import { Controller, Get } from '@nestjs/common';
 import { ScansService } from './scans.service';
-import { ApiOperation } from '@nestjs/swagger';
+import { ApiOperation, ApiTags } from '@nestjs/swagger';
 import ApiResponse from 'src/shared/dto/api-response.dto';
 
 @Controller('scans')
+@ApiTags('Scans')
 export class ScansController {
   constructor(private readonly scansService: ScansService) {}
 
